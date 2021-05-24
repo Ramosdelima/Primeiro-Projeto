@@ -1,2 +1,3 @@
 # Primeiro Projeto
- Primeiro Repositorio
+ Primeiro Repositório do curso
+Criado durante uma aula sobre Git e Github - Repositório teste
